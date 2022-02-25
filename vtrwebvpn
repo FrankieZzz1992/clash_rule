@@ -8,3 +8,52 @@ external-controller: '0.0.0.0:9090'
 secret: ''
 proxies:
 - { name: "TW1",type: http,server: wtw1.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "TW2",type: http,server: wtw2.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "TW3",type: http,server: wtw3.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "TW4",type: http,server: wtw4.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "TW5",type: http,server: wtw5.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "TW6",type: http,server: wtw6.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "TW1-B",type: http,server: pop1.avpn.cc,port: 44301,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "TW3-B",type: http,server: pop1.avpn.cc,port: 44302,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "US1",type: http,server: wus1.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "US2",type: http,server: wus2.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "US3",type: http,server: wus3.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "US4",type: http,server: wus4.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "US5",type: http,server: wus5.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "US6",type: http,server: wus6.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "US7",type: http,server: wus7.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "US8",type: http,server: wus8.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "US9",type: http,server: wus9.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "US10",type: http,server: wus10.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "JP1",type: http,server: wjp1.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "JP2",type: http,server: wjp2.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "JP3",type: http,server: wjp3.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "JP4",type: http,server: wjp4.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "JP5",type: http,server: wjp5.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "JP6",type: http,server: wjp6.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "JP1-B",type: http,server: pop1.avpn.cc,port: 44311,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "JP6-B",type: http,server: pop1.avpn.cc,port: 44312,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "HK1",type: http,server: whk1.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "HK2",type: http,server: whk2.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "HK3",type: http,server: whk3.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "HK4",type: http,server: whk4.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "SG1",type: http,server: wsg1.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "SG2",type: http,server: wsg2.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "SG3",type: http,server: wsg3.avpn.cc,port: 1275,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "SG4",type: http,server: wsg4.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "KR1",type: http,server: wkr1.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "KR2",type: http,server: wkr2.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "Australia",type: http,server: wAU1.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "Canada",type: http,server: wCA1.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "Germany1",type: http,server: wDE1.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "Germany2",type: http,server: wDE2.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "Finland",type: http,server: wFI1.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "France",type: http,server: wFR1.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "India",type: http,server: wIN1.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "Russia",type: http,server: wRU1.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "UnitedKingdom",type: http,server: wUK1.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
+
+proxy-groups:
+- { name: VTR-WebVPN, type: select, proxies: ["TW1", "TW2", "TW3", "TW4", "TW5", "TW6", "TW1-B", "TW3-B", "US1", "US2", "US3", "US4", "US5", "US6", "US7", "US8", "US9", "US10", "JP1", "JP2", "JP3", "JP4", "JP5", "JP6", "JP1-B", "JP6-B", "HK1", "HK2", "HK3", "HK4", "SG1", "SG2", "SG3", "SG4", "KR1", "KR2", "Australia", "Canada", "Germany1", "Germany2", "Finland", "France", "India", "Russia", "UnitedKingdom"]}
+#- { name: auto, type: url-test, proxies: ["TW1", "TW2", "TW3", "TW4", "TW5", "TW6", "TW1-B", "TW3-B", "US1", "US2", "US3", "US4", "US5", "US6", "US7", "US8", "US9", "US10", "JP1", "JP2", "JP3", "JP4", "JP5", "JP6", "JP1-B", "JP6-B", "HK1", "HK2", "HK3", "HK4", "SG1", "SG2", "SG3", "SG4", "KR1", "KR2", "Australia", "Canada", "Germany1", "Germany2", "Finland", "France", "India", "Russia", "UnitedKingdom"], url: http://www.gstatic.com/generate_204, interval: 300 }
+#- { name: fallback, type: fallback, proxies: ["TW1", "TW2", "TW3", "TW4", "TW5", "TW6", "TW1-B", "TW3-B", "US1", "US2", "US3", "US4", "US5", "US6", "US7", "US8", "US9", "US10", "JP1", "JP2", "JP3", "JP4", "JP5", "JP6", "JP1-B", "JP6-B", "HK1", "HK2", "HK3", "HK4", "SG1", "SG2", "SG3", "SG4", "KR1", "KR2", "Australia", "Canada", "Germany1", "Germany2", "Finland", "France", "India", "Russia", "UnitedKingdom"], url: http://www.gstatic.com/generate_204, interval: 300 }
