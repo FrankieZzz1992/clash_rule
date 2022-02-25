@@ -1,0 +1,2 @@
+proxies:
+- { name: "TW1",type: http,server: wtw1.avpn.cc,port: 44300,username: hftiantu1,password: "tt2018",tls: true}
