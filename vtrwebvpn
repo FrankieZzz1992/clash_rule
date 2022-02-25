@@ -1,6 +1,6 @@
 proxies:
 - { name: "Asia-2-Hong Kong-1",type: http,server: whk1.noapp.xyz,port: 44500,username: hftiantu1,password: "tt2018",tls: true}
 - { name: "Asia-2-Hong Kong-2",type: http,server: whk2.noapp.xyz,port: 44500,username: hftiantu1,password: "tt2018",tls: true}
-- { name: "Asia-2-Hong Kong-3",type: http,server: whk3.noapp.xyz: 44500,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "Asia-2-Hong Kong-3",type: http,server: whk3.noapp.xyz,port: 44500,username: hftiantu1,password: "tt2018",tls: true}
 - { name: "Asia-2-Hong Kong-4",type: http,server: whk4.noapp.xyz,port: 44500,username: hftiantu1,password: "tt2018",tls: true}
 
