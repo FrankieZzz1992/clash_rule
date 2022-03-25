@@ -7,13 +7,13 @@ log-level: info
 external-controller: '0.0.0.0:9090'
 secret: ''
 proxies:
-- { name: "TW1",type: https,server: wtw1.noapp.xyz,port: 44500,username: hftiantu1,password: "tt2018",tls: true}
-- { name: "TW2",type: https,server: wtw2.noapp.xyz,port: 44500,username: hftiantu1,password: "tt2018",tls: true}
-- { name: "TW3",type: https,server: wtw3.noapp.xyz,port: 44500,username: hftiantu1,password: "tt2018",tls: true}
-- { name: "TW4",type: https,server: wtw4.noapp.xyz,port: 44500,username: hftiantu1,password: "tt2018",tls: true}
-- { name: "TW5",type: https,server: wtw5.noapp.xyz,port: 44500,username: hftiantu1,password: "tt2018",tls: true}
-- { name: "TW6",type: https,server: wtw6.noapp.xyz,port: 44500,username: hftiantu1,password: "tt2018",tls: true}
-- { name: "US1",type: https,server: wus1.noapp.xyz,port: 44500,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "TW1",type: http,server: wtw1.noapp.xyz,port: 44500,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "TW2",type: http,server: wtw2.noapp.xyz,port: 44500,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "TW3",type: http,server: wtw3.noapp.xyz,port: 44500,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "TW4",type: http,server: wtw4.noapp.xyz,port: 44500,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "TW5",type: http,server: wtw5.noapp.xyz,port: 44500,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "TW6",type: http,server: wtw6.noapp.xyz,port: 44500,username: hftiantu1,password: "tt2018",tls: true}
+- { name: "US1",type: http,server: wus1.noapp.xyz,port: 44500,username: hftiantu1,password: "tt2018",tls: true}
 - { name: "US2",type: http,server: wus2.noapp.xyz,port: 44500,username: hftiantu1,password: "tt2018",tls: true}
 - { name: "US3",type: http,server: wus3.noapp.xyz,port: 44500,username: hftiantu1,password: "tt2018",tls: true}
 - { name: "US4",type: http,server: wus4.noapp.xyz,port: 44500,username: hftiantu1,password: "tt2018",tls: true}
