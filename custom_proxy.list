@@ -47,4 +47,6 @@ DOMAIN-SUFFIX,minerstat.com
 DOMAIN-SUFFIX,blocktempo.com
 DOMAIN-SUFFIX,chainnode.com
 DOMAIN-SUFFIX,polkaworld.org
+DOMAIN-SUFFIX,onet.pl
+DOMAIN-SUFFIX,net-minders.com
 IP-CIDR,198.144.158.43/32,no-resolve
